@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonster=self.webpackChunkmonster||[]).push([[76],{1858:(r,a,i)=>{i.d(a,{or:()=>e,q3:()=>n});var e=function(t){return t.lg="lg",t.sm="sm",t.xl="xl",t}(e||{}),n=function(t){return t.Basic="Basic",t.Confirm="Confirm",t}(n||{})}}]);
